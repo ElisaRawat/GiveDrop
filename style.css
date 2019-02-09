@@ -3,6 +3,13 @@ background: #000000;
 text-align: center;
 }
 
+html, body { 
+	overflow-x: hidden;
+}
+body {
+	position:relative
+}
+
 #main {
 width: 1024px;
 height: 768px;
@@ -28,11 +35,9 @@ nav
 
 @media only screen and (max-width: 768px) {
 img {width:100px}
-	overflow:hidden;
 	@viewport {
   width: device-width ;
-  zoom: 1.0 ;
-user-scalable: no; 
+  zoom: 1.0 ; 
 } 
 	}
 

@@ -5,7 +5,7 @@ text-align: center;
 
 #main {
 width: 100px;
-height: 100px;
+height: 768px;
 }
 
 hr {
@@ -25,7 +25,6 @@ nav
 	{ 
 	text-align: center; overflow: hidden; html, 
 		body {
-    max-width: 100%;
     overflow-x: hidden;
 } 
 	} 

@@ -1,7 +1,5 @@
 
-
 body 
-
 {
 background: #000000;
 text-align: center;
@@ -11,6 +9,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 42%;
 }
 
 #main {
@@ -21,6 +20,10 @@ height: 768px;
 hr {
 height: 2px;
 color: #000000;
+}
+
+div {
+    text-align:center;
 }
 
 p {

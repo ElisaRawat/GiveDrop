@@ -20,10 +20,6 @@ text-align: center;
 color: #FFFFFF;
 }
 
-nav 
-	{ 
-	text-align: center; overflow: hidden; 
-	} 
 
 @media only screen and (max-width 700px) {
 {

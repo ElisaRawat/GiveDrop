@@ -3,12 +3,6 @@ background: #000000;
 text-align: center;
 }
 
-html, body { 
-	overflow-x: hidden;
-}
-body {
-	position:relative
-}
 
 #main {
 width: 1024px;
@@ -33,7 +27,7 @@ nav
 	text-align: center; overflow: visible; 
 	} 
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
 img {width:100px}
 	@viewport {
   width: device-width ;

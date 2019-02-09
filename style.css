@@ -21,10 +21,13 @@ text-align: center;
 color: #FFFFFF;
 }
 
+
 nav 
+<center>
 	{ 
 	text-align: center; html, 
 		body {
     overflow: hidden;
 } 
 	} 
+<center/>

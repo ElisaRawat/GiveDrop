@@ -25,6 +25,6 @@ nav
 	{ 
 	text-align: center; overflow: hidden; html, 
 		body {
-    overflow-x: hidden;
+    overflow: hidden;
 } 
 	} 

@@ -23,11 +23,28 @@ color: #FFFFFF;
 
 
 nav 
-<center>
+
 	{ 
 	text-align: center; html, 
 		body {
     overflow: hidden;
 } 
 	} 
-<center/>
+
+.leftdiv, .centerdiv, .rightdiv
+{
+   text-align: center;
+}
+@media only screen and (min-width: 641px)
+{
+   .leftdiv
+   {
+      text-align: left;
+   }
+   .rightdiv
+   {
+      text-align: right;
+   }
+}
+
+

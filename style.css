@@ -1,4 +1,6 @@
-body {
+body 
+<center>
+{
 background: #000000;
 text-align: center;
 }
@@ -31,5 +33,5 @@ nav
 } 
 	} 
 
-
+<center/>
 

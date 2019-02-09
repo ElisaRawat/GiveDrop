@@ -25,7 +25,10 @@ color: #FFFFFF;
 
 nav 
 { 
-text-align: left;
+text-align: center;
+	.nowrap {
+		white-space: nowrap;
+	}
 	overflow: hidden;
 } 
 

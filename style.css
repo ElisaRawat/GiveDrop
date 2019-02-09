@@ -5,12 +5,6 @@ background: #000000;
 text-align: center;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 42%;
-}
 
 #main {
 width: 100px;
@@ -23,6 +17,14 @@ color: #000000;
 }
 
 <div style="text-align: center;">
+<div style="display: inline-block; text-align: left;">
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 42%;
+}
 
 p {
 font-family: 'Libre Franklin', sans-serif;
@@ -34,6 +36,7 @@ overflow: visible;
 color: #FFFFFF;
 }
 
-
+</div style>
+</div style>
 
 

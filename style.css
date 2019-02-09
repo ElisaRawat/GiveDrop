@@ -27,10 +27,12 @@ nav
 	} 
 
 @media only screen and (max-width: 768px) {
-img {width:200px}
+img {width:100px}
+	overflow:hidden;
 	@viewport {
   width: device-width ;
   zoom: 1.0 ;
+user-scalable: no; 
 } 
 	}
 

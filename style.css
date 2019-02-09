@@ -23,3 +23,8 @@ nav
 	{ 
 	text-align: center; overflow: hidden; 
 	} 
+
+@media only screen and (min-width 768px) {
+p {
+padding: 20px, 0px 0px;
+}

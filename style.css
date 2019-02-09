@@ -1,5 +1,5 @@
 body 
-<center>
+
 {
 background: #000000;
 text-align: center;
@@ -23,14 +23,11 @@ text-align: center;
 color: #FFFFFF;
 }
 
-
 nav 
-
-	{  html, 
-		body {
-    overflow: hidden;
+{ 
+text-align: center;
+	overflow: hidden;
 } 
-	} 
 
-<center/>
+
 

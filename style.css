@@ -3,10 +3,6 @@ background: #000000;
 text-align: center;
 }
 
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
 
 #main {
 width: 1024px;
@@ -28,5 +24,8 @@ color: #FFFFFF;
 
 nav 
 	{ 
-	text-align: center; overflow: visible; 
+	text-align: center; overflow: hidden; html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+} 
 	} 

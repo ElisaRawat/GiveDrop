@@ -22,7 +22,7 @@ color: #FFFFFF;
 
 nav 
 	{ 
-	text-align: center; overflow: visible; 
+	text-align: center; overflow: scroll; 
 	} 
 
 @media only screen and (max-width 700px) {

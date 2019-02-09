@@ -29,19 +29,16 @@ font-family: 'Libre Franklin', sans-serif;
 font-size: 10pt;
 font-weight: 300;
 text-align: center;
+white-space: nowrap;
+overflow: visible;
 color: #FFFFFF;
 }
 
-li {
-  overflow: hidden; 
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
 
 nav 
 { 
 text-align: center;
-	overflow: hidden;
+	overflow: visible;
 } 
 
 

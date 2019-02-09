@@ -8,6 +8,7 @@ width: 1024px;
 height: 768px;
 }
 
+
 hr {
 height: 2px;
 color: #000000;
@@ -22,12 +23,16 @@ color: #FFFFFF;
 
 nav 
 	{ 
-	text-align: center; overflow: hidden; 
+	text-align: center; overflow: visible; 
 	} 
 
-@media only screen and (max-width 700px) {
+@media only screen and (min-width:320px) and (max-width:768px) {
 {
 img {width:200px}
+	@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+} 
 	}
 
 

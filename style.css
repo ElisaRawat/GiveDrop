@@ -3,6 +3,9 @@ body
 {
 background: #000000;
 text-align: center;
+		.nowrap {
+		white-space: nowrap;
+	}
 }
 
 #main {
@@ -26,9 +29,6 @@ color: #FFFFFF;
 nav 
 { 
 text-align: center;
-	.nowrap {
-		white-space: nowrap;
-	}
 	overflow: hidden;
 } 
 

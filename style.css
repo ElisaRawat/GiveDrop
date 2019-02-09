@@ -3,17 +3,16 @@ background: #000000;
 text-align: center;
 }
 
-
 #main {
-width: 1024px;
+width: 100px;
 height: 768px;
 }
-
 
 hr {
 height: 2px;
 color: #000000;
 }
+
 p {
 font-family: 'Libre Franklin', sans-serif;
 font-size: 10pt;
@@ -24,7 +23,8 @@ color: #FFFFFF;
 
 nav 
 	{ 
-	text-align: center; overflow: hidden; html, body {
+	text-align: center; overflow: hidden; html, 
+		body {
     max-width: 100%;
     overflow-x: hidden;
 } 

@@ -40,6 +40,10 @@ overflow: visible;
 color: #FFFFFF;
 }
 
+@media screen and (min-width: 481px) {
+  width: 480px ;
+  }
+
 </div style>
 </div style>
 
